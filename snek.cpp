@@ -1,3 +1,7 @@
+/************************
+*        S N E K        *
+* (c) Sari Jokinen 2018 *
+************************/
 #include <SDL.h>
 #include <SDL_image.h>
 #include <stdio.h>
